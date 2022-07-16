@@ -1,0 +1,1 @@
+ printf("The program is named: %s\n", argv[0]);
