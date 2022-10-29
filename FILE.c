@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// some random comment
 int main(){
 
     FILE *fp;
